@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "921017843813",
+    "firebase_url": "https://blocal-471f5.firebaseio.com",
+    "project_id": "blocal-471f5",
+    "storage_bucket": "blocal-471f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921017843813:android:829584e0582bab931c468c",
+        "android_client_info": {
+          "package_name": "com.bleisurerewards.blocalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921017843813-br3t249a22eoplu7qjs30g93c2gg1ns1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bleisurerewards.blocalapp",
+            "certificate_hash": "afbdb2993005807a187ad5503fa7b95c3ec96a27"
+          }
+        },
+        {
+          "client_id": "921017843813-src6nt6agol66j448sguhu9ectftb0uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bleisurerewards.blocalapp",
+            "certificate_hash": "760d3f504be28b4f86937b5d3ea6b6fb46b29f1f"
+          }
+        },
+        {
+          "client_id": "921017843813-025jnsh16iemqd4c81q1oquor5gtml8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQjKbJbXNudZi5_4rT-ASw2gj5Zxe2KxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921017843813-025jnsh16iemqd4c81q1oquor5gtml8f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "921017843813-6dmp56ou4b9ol9ik6mfi9qrluqulnr5h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bleisurerewards.blocalapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

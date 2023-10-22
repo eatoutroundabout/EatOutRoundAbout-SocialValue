@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "673244682543",
+    "firebase_url": "https://eat-out-round-about.firebaseio.com",
+    "project_id": "eat-out-round-about",
+    "storage_bucket": "eat-out-round-about.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673244682543:android:a17dcf57c984df99bb29da",
+        "android_client_info": {
+          "package_name": "com.eatoutroundabout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673244682543-4jdl3iaeoumlg0370lt3m4474qvbenn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eatoutroundabout",
+            "certificate_hash": "afbdb2993005807a187ad5503fa7b95c3ec96a27"
+          }
+        },
+        {
+          "client_id": "673244682543-9o9ajeq8g7l6vt28lb28clvrrl1co9te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eatoutroundabout",
+            "certificate_hash": "55a4ecd2fb60ff237b2ff3faaf58e6177f12701b"
+          }
+        },
+        {
+          "client_id": "673244682543-giqcindmnnm9n8g6ihbu1st816jkbpl2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eatoutroundabout",
+            "certificate_hash": "b30571aaabb0d34b952fd350279a37752d9b1864"
+          }
+        },
+        {
+          "client_id": "673244682543-qs17vf94b4cut7lkchk0aa6ffg3ttiap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwJQ4ODdxkQyKhFs8MQdBaIGVpnrWfhtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673244682543-qs17vf94b4cut7lkchk0aa6ffg3ttiap.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "673244682543-e4v159gulhihouqv48cr69ii9k1a8opg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eatoutroundabout",
+                "app_store_id": "1550036719"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

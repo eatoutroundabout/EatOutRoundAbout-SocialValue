@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>921017843813-6dmp56ou4b9ol9ik6mfi9qrluqulnr5h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.921017843813-6dmp56ou4b9ol9ik6mfi9qrluqulnr5h</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>921017843813-br3t249a22eoplu7qjs30g93c2gg1ns1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAFP8JtFHofivxeRc1FmSqMVm05hkZMwXQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>921017843813</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bleisurerewards.blocalapp</string>
+	<key>PROJECT_ID</key>
+	<string>blocal-471f5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>blocal-471f5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:921017843813:ios:45482f9056546bf01c468c</string>
+	<key>DATABASE_URL</key>
+	<string>https://blocal-471f5.firebaseio.com</string>
+</dict>
+</plist>

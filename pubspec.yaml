@@ -1,0 +1,108 @@
+name: eatoutroundabout
+description: A new Flutter application.
+
+publish_to: 'none'
+
+version: 1.9.0+97
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  get: 4.6.5
+
+  #Firebase
+  firebase_auth: ^4.8.0
+  cloud_firestore: ^4.9.0
+  firebase_dynamic_links: ^5.3.5
+  firebase_storage: ^11.2.6
+  cloud_functions: ^4.4.0
+  firebase_messaging: ^14.6.7
+  firebase_core: ^2.15.1
+  awesome_notifications: 0.7.4+1
+  paginate_firestore:
+    git:
+      url: https://github.com/waqadArshad/paginate_firestore.git
+
+  #Features
+  flutter_rating_bar: 4.0.1
+  location: ^5.0.3
+  intro_slider: 4.2.0
+  shared_preferences: ^2.2.0
+  #smooth_star_rating: 1.1.1
+  smooth_star_rating_null_safety: ^1.0.4+2
+  qr_code_scanner: ^1.0.1
+  pretty_qr_code: ^2.0.3
+  image_cropper: ^5.0.0
+  image_picker: ^1.0.2
+  flutter_native_image: 0.0.6+1
+  rating_dialog: 2.0.4
+  google_maps_flutter: ^2.4.0
+  confetti: 0.7.0
+  #flutter_swiper: 1.1.6
+  flutter_swiper_null_safety: ^1.0.2
+  in_app_review: ^2.0.6
+  flutter_stripe: ^9.3.0
+
+  #Utilities
+  font_awesome_flutter: ^10.5.0
+  pin_input_text_field: ^4.5.1
+  cached_network_image: ^3.2.3
+  uuid: ^3.0.7
+  timeago: ^3.5.0
+  url_launcher: ^6.1.12
+  intl: ^0.17.0
+  dotted_border: ^2.0.0+3
+  flutter_launcher_icons: ^0.13.1
+  nanoid: 1.0.0
+  flutter_linkify: ^6.0.0
+  flutter_arc_text: 0.5.0
+  permission_handler: ^10.4.3
+  date_time_picker: 2.1.0
+  #store_launcher: 1.0.1
+  store_launcher_nullsafe: ^1.0.0
+  share: 2.0.4
+  step_progress_indicator: 1.0.2
+  #flutter_datetime_picker: 1.5.1
+  flutter_datetime_picker_plus: ^2.0.1
+  flutter_switch: 0.3.2
+  get_ip_address: ^0.0.6
+  r_get_ip: 0.1.1
+  photo_view: 0.14.0
+  google_place: 0.4.7
+  dropdown_search: ^5.0.6
+  timelines: 0.1.0
+  geolocator: ^10.0.0
+  webview_flutter: ^4.2.3
+  flutter_emoji: ^2.5.1
+
+dependency_overrides:
+  http: ^1.1.0
+  intl: ^0.18.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/images/newlogo.png"
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Font2
+      fonts:
+        - asset: assets/fonts/font2.ttf
+
+    - family: Font1
+      fonts:
+        - asset: assets/fonts/font1.ttf
